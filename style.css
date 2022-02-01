@@ -1,0 +1,88 @@
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1.Header{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: brown;
+    font-size: x-large;
+}
+
+section.Carta{
+    margin: 40px;
+}
+
+section.café{
+    margin: 40px;
+    text-align: center;
+}
+
+section.Contacto{
+    margin: 40px;
+    text-align: right;
+}
+
+
+ul.circulo{
+    list-style-type: circle;
+}
+
+ol.romanos{
+    list-style-type: upper-roman;
+}
+
+h1.elcafe{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+
+}
+
+p.café{
+    color: brown;
+    font-weight: bolder;
+    text-align: left;
+}
+
+h1.contacto{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+
+h3.telefono{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p.num{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+h3.mail{
+color: brown;
+font-weight: bold;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.correo{
+color: black;
+font-weight: bolder;
+text-align: center;
+}
+
